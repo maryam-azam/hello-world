@@ -26,6 +26,9 @@ We've already set-up a GitHub Pages website for you, based on your personal user
 
 Let's get started! To update this repository’s name, click the `Settings` tab on this page. This will take you to your repository’s settings page. 
 
+
+okkkkkkkk
+
 ![repo-settings-image](https://user-images.githubusercontent.com/18093541/63130482-99e6ad80-bf88-11e9-99a1-d3cf1660b47e.png)
 
 Under the **Repository Name** heading, type: `username.github.io`, where username is your username on GitHub. Then click **Rename**—and that’s it. When you’re done, click your repository name or browser’s back button to return to this page.
